@@ -4,7 +4,7 @@
 
 ---
 
-## 📦 How to Set It Up (Google Drive Package)
+## 📦 How to Set It Up (Download Zip)
 
 ### ✅ Prerequisites
 
