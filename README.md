@@ -19,7 +19,7 @@
 
 ### 1. 🔽 Download and Extract
 
-- Download the zip folder from Google Drive
+- Download the zip folder from GitHub
 - Right-click the ZIP → **Extract All...**
 - Go into the extracted `TroubleBot` folder
 
